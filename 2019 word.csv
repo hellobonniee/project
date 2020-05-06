@@ -1,0 +1,430 @@
+﻿Date,Time_A/P,Building,P(epsi) or C(anteen),Machine ID/ Asset #,Problem,Date Reported,Who Called it In?,Pepsi Confirm  # or n/a,Name of Person at P or C reported to,Other Notes / Service Deadline
+1/2/19,2:43 PM,LASP,C,67088,Not accepting electronic payments,1/2/19,Cate,n/a,Jeanne has dispatched,
+1/3/19,3:11 PM,Regent,P,10436458,"Stuck ""now dispensing"" on main screen (Card reader not stuck)",1/3/19,Cate,116679367,Anne has dispatched,eob 1/4/19
+1/3/19,3:35 PM,Ketchum,C,66578,"Stuck ""Cards offline by vendor""",1/3/19,Cate,n/a,Austin has dispatched,
+1/3/19,3:35 PM,Norlin,C,68479,"Request: top section nearly empty, less hot flavors, dark chocolate for bottom row, which remains full?",1/3/19,Cate,n/a,emailed Jeanne; she forwarded to Phil,
+1/4/19,6:01 PM,Muenzinger,P,10966321,Ate 2 $1 coins,1/7/19,Cate,116718352,Grema,eob 1/8/19
+1/7/19,3:45 PM,CUBS,C,67721,"Slot 201 not working ""make another selection""",1/7/19,Cate,n/a,Jeanne has dispatched,
+1/8/19,4:15 PM,IEC,P,2579709,Martin Castorena called to ask for this to be moved back to the correct position,1/8/19,Cate,n/a,"Emailed Mike Minnehan, spoke w/Emil.",
+1/9/19,12:40 PM,UMC,P,11319620,Needs to be restocked ASAP,1/9/19,Cate,n/a,Jerry has dispatched,"(may have been restocked already, after Emil observed filler walk past & fill CUBS machines)"
+1/11/19,3:00 PM,Theater,C,66502,"Chips stuck near bottom, toward right ",1/11/19,Cate,n/a,Austin has dispatched,
+1/14/19,1:47 PM,Rec Center,P,10735614,"Not dispensing, bottle stuck",1/14/19,Cate,116845960,Jonathan has dispatched,
+1/14/19,3:58 PM,Norlin,C,68479,Card reader too high to be ADA compliant,1/15/19,Cate,n/a,Jeanne has dispatched,Ronda replied that this will be fixed
+1/15/19,8:57 AM,CASA,C,67807,Very low product,1/15/19,Cate,n/a,Jake has dispatched,"Jake advised next scheduled fill is Tue 1/22/19, I requested ASAP"
+1/15/19,10:28 AM,LASP,C,67088,Product low,1/15/19,Jeanne,n/a,Man @ LASP called Jeanne @ Canteen directly,
+1/15/19,1:46 PM,Many,C,Many,"Ronda has confirmed most upgrades, sent us asset ID #s.",1/15/19,Ronda,n/a,Cate has updated Master,
+1/15/19,4:02 PM,Norlin,Both,Both,"Chris Yago of Bldg Mgmt advised loading dock will be closed, forwarding instructions",1/15/19,Chris Yago,n/a,Cate will forward delivery instructions to Canteen & Pepsi,
+1/16/19,12:45 PM,CUBS,C,67721,"Emil noticed that ""tap to pay"" isn't working on these.",1/16/19,Cate,n/a,Jeanne has dispatched,
+1/16/19,2:10 PM,UMC,P,10356368,"Low product & ""cash only"" message",1/16/19,Cate,116891724,Jose & Jose have dispatched,"eob 1/17/19, tech will ask for Emil when on site to discuss ""tap to pay"""
+1/16/19,2:10 PM,UMC,P,11319620,Product low,1/16/19,Cate,n/a,Jose has dispatched,
+1/17/19,1:31 AM,ENVD,P,2565297,use credit card no product dispensed,1/17/19,Linda,116912032,Charles will submit,
+1/17/19,4:10 PM,Rec Center,P,10735614,"Attepmted 3x to get water, looks like charged $6 on credit card",1/18/19,Cate,116926659,Myca has dispatched,
+1/17/19,9:20 AM,Leeds,P,2598156,cc reader not authorizing (on some of the machines; placed tickets for all of them),1/18/19,Cate,116926684,Myca has dispatched,
+1/17/19,9:20 AM,Leeds,P,11139703,not authorizing cc,1/18/19,Cate,116929701,Myca has dispatched,
+1/17/19,9:20 AM,Leeds,P,8151835,not authorizing cc,1/18/19,Cate,116926694,Myca has dispatched,
+1/17/19,9:20 AM,Leeds,P,2565283,not authorizing cc,1/18/19,Cate,116926697,Myca has dispatched,
+1/17/19,9:20 AM,Leeds,C,67764,not authorizing cc,1/18/19,Cate,n/a,Jake has dispatched,
+1/18/19,1:28 PM,Willard,C,84099,Not accepting bills,1/18/19,Cate,n/a,Jeanne has dispatched,
+1/21/19,3:50 PM,CUBS,C,67721,Joe Allen: prices displayed are lower than the amount charged for several products,1/21/19,Cate,n/a,Jake has dispatched,eob Tue 1/21/19
+1/25/19,10:31 AM,Armory,C,68891,"Used cc and cash did not get product. Rec'd email w/detail later: card inserted, price dropped to 1/2, failure to complete transaction.",1/25/19,Linda,n/a,Jeanne will contact Gilbert. Originally determined non-issue; call reopened 2:15p,"Email was sent to us @ 12:40pm same day; replied that service had been requested, asked for detail. Tech will be out Monday 1/28/19."
+1/28/19,12:00 PM,CUBS,P,11051329,Failed to dispense,1/29/19,Cate,117075468,Roy has dispatched,eob 1/30/19
+1/29/19,3:49 PM,ARC,P,2563398,"""Empty""",1/29/19,Cate,n/a,Ernest has dispatched,"2/4 Myeesha put in 2nd request, will follow up w/ETA."
+1/30/19,7:54 PM,Libby,C,66352,Sour Patch Kids got stuck,1/31/19,Cate,n/a,Jeanne has dispatched,
+1/31/19,12:24 PM,Ketchum,C,67829,Very low product,1/31/19,Cate,n/a,Jeanne has dispatched,
+2/1/19,11:57 AM,CUBS,P,11051329,Failed to dispense,2/1/19,Cate,117131252,Sharice has dispatched,Previous call for same issue was closed out. EOB 2/4/19
+2/1/19,1:15 PM,CUBS,C,67721,Low product,2/1/19,Cate,n/a,Jeanne has dispatched,
+2/4/19,1:01 AM,Willard,C,84099,not working,2/4/19,Linda,n/a,Jeanne has dispatched,
+2/6/19,11:17 AM,Telecom,P,2579756,Nathan Long has requested removal via email,2/6/19,Cate,n/a,"Left vm w/Scott, Mike Minnehan's replaement.","Emil spoke w/Scott, confirmed request morning of 2/7/19."
+2/6/19,4:02 PM,ARC,P,2566398,Still empty on 2/4,2/6/19,Cate,n/a,"Spoke again w/Myeesha, who had no new info; sent email & will call",Myesha called 2/7/19 to confirm fill request will be completed 2/8/19.
+2/7/19,2:48 PM,Bear Creek A,P,2564599,Wendy got a message last week re: Not giving change back,2/7/19,Cate,117218023,Jerry has dispatched,eob 2/8/19
+2/8/19,12:52 PM,Carlson Gym,P,2582414,Failed to dispense,2/8/19,Cate,117237095,Keenan has dispatched,eob 2/11/19
+2/9/19,9:04 PM,Carlson Gym,P,2582414,"Victor Mestas, Thompson Jazz teacher mentioned Imig staff, faculty, classes & rehearsals transferred here during Imig remodel",2/11/19,Cate,n/a,Emailed Proctor Trisha Ward on 2/11 to confirm,Emailed Scott @ Pepsi on 2/11 w/link regarding this change.
+2/12/19,1:11 PM,Muenzinger,P,8051844,Stuck Gatorade (E7),2/12/19,Cate,117280727,Astra has dispatched,eob 2/13/19
+2/12/19,3:25 PM,Chey-Arapaho,C,69934,Large pile of stuck items; students manipulated machine to get them out.,2/12/19,Cate,n/a,Jeanne has dispatched,
+2/12/19,5:44 PM,Muenzinger,P,8051844,D2 not dispensing,2/13/19,Cate,117280727,"Mina has checked & added info to call (see above), which has not been closed yet.",eob 2/13/19
+2/13/19,1:446 p,Engineering,P,10966368,Bad product several times; may be freezing,2/13/19,Cate,117304960,Keenan has dispatched,eob 2/14/19
+2/13/19,2:30 PM,IEC,P,2579709,"Not accepting bills, seems completely sold out!",2/13/19,Cate,117305763,Cortina has dispatched,eob 2/14/19
+2/13/19,4:03 PM,Stearns,P & C,New,Installation granted by Jon Keiser,2/13/19,Cate,n/a,Emailed Scott & Ronda,Specific location marked on map
+2/14/19,12:42 PM,SEEC,P,10617487,Expired Pepsi product,2/14/19,Cate,n/a,Jose has dispatched,
+2/14/19,1:10 PM,unknown,C,unknown,"""student"" request for Oogies Popcorn",2/14/19,Cate,n/a,Jeanne will forward this up,"email from fevergaming press gmail, ""student"" did not sign name or leave any other contact info."
+2/15/19,10:10 AM,Willams Vill.North,P,2564602,CC reader not working,2/15/19,Linda,117338983,Clarice,eob Monday Feb 18
+2/15/19,2:20 PM,UMC,P,11319620,Low product,2/15/19,Cate,n/a,Allen has dispatched,Also suggested increased fill schedule
+2/15/19,3:30 PM,Libby,C,84070,$2.50 Short-changed,2/15/19,Cate,n/a,Jeanne has dispatched,"Also called front desk, asked to put up sign, tech can't be out until Monday"
+2/18/19,1:45 PM,Chey-Arapaho,C,84069,Service light blinking,2/18/19,Cate,n/a,Jeanne has dispatched,Probably due to Libby customers
+2/18/19,5:36 PM,Fleming,C,66041,"Pop Tarts didn't drop, machine didn't respond to $2.00 + selection",2/18/19,Cate,n/a,Jeanne has dispatched,Emailed Canteen; dispatched am 2/19/19.
+2/19/19,8:30 AM,Rec Center,P,10179649,use of CC did not activate arm for muscle milk,2/19/19,Linda,117370585,Shana  EOB 2/19/19,
+2/19/19,8:36 AM,Rec Center,P,10177395,Vita water leaning forward blocking arm,2/19/19,Linda,117370693,Marla EOB 2/19/19,
+2/21/19,9:15 AM,Computing Cntr,P,7928568,Expired Pepsi product,2/21/19,Linda,,"give 48 hours, will check",
+2/22/19,11:20 AM,Sewall mail room,C,84203,No change given,2/22/19,Linda,n/a,Essie will submit,
+2/22/19,11:20 AM,LASP,C,67145,Needs to be restocked ,2/22/19,Linda,n/a,Essie will submit,
+2/22/19,2:25 PM,Humanities,P,11174350,CC reader problems,2/22/19,Dave,Unknown,"A customer must have called this in. Dave, our new Pepsi night tech checked & ok","Dave, our new Pepsi night tech called for directions; I gave him 3 PTS campus maps, emailed Scott to offer more."
+2/25/19,11:04 AM,CUBS,P,11051329,Selection 18 failed to vend w/cash pmt,2/25/19,Cate,117463515,Lucetta has dispatched,eob 2/26/19
+2/25/19,8:09 PM,Rec Center,P,10177395,"Not working, no detail given",2/26/19,Cate,117484242,Lashonna,eob 2/27/19
+2/27/19,12:00 PM,Rec Center,P,10177395,not dispensing,2/27/19,Linda,117503535,Carolyn has dispatched,eob 2/28
+3/1/19,9:55 AM,Engineering,P,10735615,used cc did not dispense,3/1/19,Linda,117539247,Anne has dispatched,eob 3/4/19
+3/3/19,6:54 PM,Andrews,P,8400674,"""Empty""",3/4/19,Cate,n/a,Rose has dispatched,not given
+3/6/19,12:05 PM,Fleming,P,10130346,"Arm is stuck, can't dispense",3/6/19,Kim,117610436,China has dispatched,eob 3/7 (Kari Robinson @ wolf called on behalf of Robby Aaron)
+3/6/19,3:40 PM,Fleming,P,10130346,"Same issue; lots of Diet P dropped, only 2 options for low/no sugar, want more",3/6/19,Cate,n/a,Emailed Scott P,
+3/11/19,12:23 PM,ARC,C,66207,Not accepting bills,3/11/19,Cate,n/a,Jeanne has dispatched,
+3/12/19,8:05 AM,Chey-Arapaho,C,84069,Temporarily out of service light is on,3/12/19,Cate,n/a,Jeanne has dispatched,May have been addressed before I called this in @ 1:35p
+3/12/19,3:18 PM,Muenzinger,P,8051844,"Tried to dispense, failed",3/12/19,Cate,117695528,Charise has dispatched,eob 3/13/19
+3/12/19,3:23 PM,Bear Creek A,P,2564599,Failed to dispense Thur & Sat nights,3/12/19,Cate,117695543,Charise has dispatched,eob 3/13/19
+3/12/19,2:56 PM,Will Vill North,P,2564602,"""Cash only"" message",3/12/19,Cate,117694483,Brittany has dispatched,eob 3/13/19
+3/12/19,2:20 PM,Stearns,C,66962,8 Empty Slots,3/12/19,Cate,n/a,Jeanne has dispatched,
+3/12/19,3:15 PM,Bear Creek B,C,69935,5 Empty Slots,3/12/19,Cate,n/a,Jeanne has dispatched,
+3/14/19,10:30 AM,ARL/CASA,C,67807,Refill request,3/14/19,Kim,n/a,Essie has dispatched,
+3/18/19,11:25 AM,Chey-Arapaho,C,84069,Blinking service light,3/18/19,Cate,n/a,Jeanne has dispatched,email from Dylan Price 10:41 p same complaint; able to reply that someone should be out Tuesday on Tuesday.
+3/19/19,3:19 PM,LASP,C,67145,Product low,3/19/19,Cate,n/a,Jeanne has dispatched,
+3/19/19,3:19 PM,LASP,P,2565314,Product low,3/19/19,Cate,n/a,Patty has dispatched,
+3/20/19,9:50 AM,Stearns,C,66962,Needs to be refilled,3/20/19,Linda,n/a,Jeanne has dispatched,
+3/20/19,8:29 AM,ARL/CASA,C,67807,Product low,3/21/19,Cate,n/a,Jeanne has dispatched,
+3/21/19,1:55 PM,Muenzinger,P,10966321,Didn't move after selection was made,3/21/19,Cate,117838059,Chase has dispatched,eob 3/22
+3/21/19,3:15 PM,Computing Cntr,P,7928568,expired 12/2018 Diet Dr. P,3/21/19,Cate,n/a,Jose has dispatched,Previous call 2/21 ws for Dr. P x Oct 2018
+3/22/19,9:00 AM,IEC,P,2579709,"Martin @ IEC called, thinks machine is still full of product, not empty as scheduled",3/21/19,Cate,n/a,"Martin saw ""not available"" in morning, but Cate saw prices @ 1:45pm Scott said it's offline","Still scheduled to be emptied today per Scott. @ 2:34p, 5:28p Martin says no one came."
+3/25/19,12:20 PM,ARL/CASA,C,67807,"Out of product, called in last 3/20/19",3/25/19,Linda,n/a,Jeanne has dispatched,Reported low again 3/26 early am
+3/25/19,3:40 PM,CUBS,P,11038360,"Not dispensing w/cash pmt, not giving change",3/25/19,Cate,117888352,Marilyn has dispatched,"This week we're only open Mon & Thurs 11-4, so eob 3/28 is svc deadline"
+3/26/19,5:48 AM,SPSC,C,66353,Product low,3/26/19,Cate,n/a,Jeanne has dispatched,26-Mar
+3/26/19,5:48 AM,LASP,C,67088,Product low,3/26/19,Cate,n/a,Jeanne has dispatched,26-Mar
+3/26/19,11:07 AM,Bear Creek A,C,69837,Break-in evident (Ronda @ Canteen confirmed she was mistaken: NO break-in!),3/26/19,Cate,n/a,"Talked to Ronda, I will file a police report","Contacted CUPD @ 11:28a, Called Pepsi to advise them of situation. T19000218"
+3/25/19,6:56 PM,Williams Vill. North,C,67809,Break-in evident @ 8am 3/25 (Ronda @ Canteen confirmed she was mistaken: NO break-in!),3/26/19,Cate,n/a,"Ronda notified us, I asked Wendy to file a police report","Called Pepsi to advise them of situation, Officer Sara Fraser has responded to this issue."
+3/26/19,11:23 AM,Regent,P,8009991,"Dark, not accepting cash",3/26/19,Cate,117903026,Tonya has dispatched,eob 3/27
+3/26/19,11:23 PM,Regent,P,10436458,Appears to be turned off,3/26/19,Cate,117903043,Tonya has dispatched,eob 3/27
+3/26/19,4:18 PM,ARC,C,66207,Pretzels keep getting stuck,3/26/19,Cate,n/a,Jeanne has dispatched,ARC will need bank replenished
+4/1/19,12:01 PM,Education,C,67358,Items stuck above eye mechanism,4/1/19,Cate,n/a,Jeanne has dispatched,
+4/2/19,8:14 AM,Police,P,2565320,"2x in 2 weeks, Failed to dispense",4/2/19,Cate,118018757,Astra has dispatched,eob 4/3/19
+4/2/19,11:23 AM,Duane Physics,C,67759,Rejecting 95% of coins,4/2/19,Cate,n/a,Jeanne has dispatched,
+4/2/19,5:44 PM,Fleming,C,66041,Pop Tarts failed to dispense,4/2/19,Cate,n/a,Dispatch confirmed 4/3/19,emailed compas 4/2/19 @ 5:55p
+4/3/19,9:50 AM,CUBS,P,11051329,"White chocolate failed to dispense, stole cash",4/3/19,Cate,118054518,Astra has dispatched,eob 4/4/19
+4/4/19,11:27 AM,Fleming,C,66041,popcorn dropped into hole can not get to product. Tried having skittles drop on it and force out. Did not work.,4/4/19,Linda,n/a,Jeanne has dispatched,
+4/3/19,11:48 PM,Andrews,P,8400764,"Seems to empty very fast, all options ""Sold out"" at this time.",4/4/19,Cate,n/a,Marlene has dispatched,
+4/3/19,11:48 PM,Andrews,P,8400764,May be out of order; last month was turning off & on overnight while empty,4/4/19,Cate,118086486,Melanie has dispatched,eob 4/5/19
+4/4/19,2:27 PM,LASP,C,67145,Product low,4/4/19,Cate,n/a,Jeanne has dispatched,
+4/4/19,6:42 PM,Education,C,67358,Popcorn stuck above sensor at bottom AGAIN,4/5/19,Cate,n/a,Jeanne has dispatched,
+4/5/19,12:26 AM,Bear Creek A,C,69837,Jerky stuck against glass above drop bin,4/5/19,Cate,n/a,Jeanne has dispatched,
+4/8/19,7:23 AM,UMC,P,11319620,Machine almost empty,4/8/19,Emil,n/a,Not filled by 4/9 3:43pm per Emil,Called in again. Ernest re-sent the request; there were no notes added before now.
+4/6/19,12:57 PM,Rec Center,C,68681,"Stole $2.30, item was $2.25",4/8/19,Cate,n/a,Jeanne has dispatched,
+4/7/19,8:50 PM,Bear Creek B,C,69935,Hot Cheetos stuck above sensor,4/8/19,Cate,n/a,Jeanne has dispatched,
+4/6/19,12:57 PM,Rec Center,P,10177395,"Failed to vend, money was refunded by machine",4/8/19,Cate,118136371,Anita has dispatched,
+4/10/19,4:34 AM,Andrews,P,8400764,"Note from filler says machine has product, still showing ""sold out"" for every item",4/10/19,Cate,118179655,Jonathan has dispatched,eob 4/11/19
+4/11/19,12:49 PM,Will Vill North,P,2564602,"Gatorade failed to dispense 3x for cc, did work 2x with cash: E5, E6, E7",4/10/19,Cate,118198485,Liz has dispatched,"11pm on 4/12/19, update: 4/11 before 11pm"
+4/13/19,5:16 PM,Kittredge West,C,68037,3 items stuck,4/15/19,Cate,n/a,Essie has dispatched,
+4/14/19,8:59 AM,Willard,C,67657,Didn't vend Reese's,4/15/19,Cate,n/a,Essie has dispatched,
+4/15/19,1:26 AM,Will Vill North,P,2564602,Gatorade failed to dispense,4/15/19,Cate,118239614,Kim has dispatched,eob 4/16/19
+4/16/19,3:44 PM,Muenzinger,P,8051844,Intermittent malfunctions,4/16/19,Cate,118262391,Jaquassia has dispatched,eob 4/17/19
+4/17/19,5:25 AM,Bear Creek A,P,2564599,"Not accepting quarters, ate $1.50",4/17/19,Cate,118280654,Brittany has dispatched,eob 4/18/19
+4/17/19,12:54 PM,Muenzinger,C,67762,"Kit Kat marked $1.50, $3 in, $0.75 back",4/17/19,Cate,n/a,Jeanne has dispatched,"Customer received $1 coin, so no problem."
+4/19/19,11:18 AM,Ekeley,P,10707445,"No power, unable to see outlet",4/19/19,Linda,n/a,Emil checked it,No need for service.
+4/19/19,10:06 AM,Chey-Arapaho,C,84069,Changer open; needs to be locked shut,4/19/19,Cate,n/a,Mina has dispatched. Gilbert will come today 4/19 after 3:08pm,Essie added ASAP due to Andrew calling & stating money is accessible to anyone.
+4/19/19,2:44 PM,Regent,C,67760,Baked Lays have holes in top of packages,4/19/19,Cate,n/a,Essie has dispatched,
+4/22/19,9:14 AM,Muenzinger,P,2565275,Diet products totally out - needs refill,4/22/19,Emil,n/a,Marlene has dispatched,
+4/23/19,12:54 PM,Muenzinger,P,2565275,TOTALLY OUT NEEDS REFILL,4/23/19,Linda,,Maryann,EOB possible
+4/23/19,12:54 PM,Muenzinger,P,10966321,use credit card transaction gets cancelled.,4/23/19,Linda,118360215,Stephanie has dispatched,
+4/23/19,5:16 PM,CUBS,P,10963775,Mango bubly fell to bottom,4/23/19,Cate,118365627,Molly has dispatched,eob 4/24/19
+4/23/19,7:53 PM,Leeds,C,67764,Not accepting card payment,4/24/19,Cate,n/a,Essie has dispatched,
+4/24/19,2:00 PM,Bear Creek B,C,69935,Items stuck above eye mechanism,4/24/19,Cate,n/a,Essie has dispatched,
+4/26/19,7:00 AM,Connection/Bowling,P,10442652,Accepts money not dispensing,4/26/19,Kim,118414640,Jess has dispatched,eob 4/26/19
+4/25/19,12:01 AM,Kittredge West,C,68037,Items stuck above eye mechanism,4/29/19,Cate,n/a,Jeanne has dispatched,
+4/27/19,10:43 PM,Stadium,P,2565298,Bottles of Lipton stuck in machine,4/29/19,Cate,,Haley confirmed call closed 4/30,Phone problems; fill svc sent email
+4/29/19,3:25 PM,Wolf,C,67278,"Stole $1 bill, didn't recognize it",4/29/19,Cate,n/a,Jeanne has dispatched,
+5/1/19,11:52 AM,Regent,P,8009991,"Can sitting on top of arm, leaking",5/1/19,Cate,118482882,Haley has dispatched,
+5/3/19,10:34 AM,Williams Vill. North,P,2564062,"Water not dispensing, no asset number given",5/3/19,Kim,118520308,Lea by EOB 5/6/19,
+5/3/19,10:34 AM,Williams Vill. North,P,2565296,"Water not dispensing, no asset number given",5/3/19,Kim,118520308,Lea by EOB 5/6/19,
+5/6/19,1:19 PM,LASP,P,8035818,"Expired OJ 3/4/19, Peach Tea 4/15/19",5/6/19,Cate,n/a,Ernest has dispatched,
+5/7/19,10:20 AM,Biotech,C,69060,"Credit card reader not functioning properly; some work, some don't.",5/7/19,Cate,n/a,Jeanne has dispatched,Thur & Fri BAD TRAFFIC ON CAMPUS
+5/6/19,9:40 PM,Bear Creek A,P,2564599,"Frappucino failed to dispense, card pmt",5/7/19,Cate,118572514,Jose has dispatched,eob 5/8/19
+5/8/19,10:35 AM,Leeds,P,8051835,starbucks dropped to bottom stuck,5/8/19,Linda,118585464,Anita has dispatched,
+5/7/19,9:51 PM,Baker,P,10387967,"Ate $4 in coin, did not credit or give change",5/8/19,Cate,118589578,Roxanne has dispatched,Completed 5/8/19
+5/9/19,1:40 PM,CUBS,P,10963775,"X Homing Failure & ""Cash Only"" message",5/9/19,Cate,118610850,Kim has dispatched,eob 5/9/19
+5/9/19,3:58 PM,DLC,C,67010,Failed to give $0.75 change,5/9/19,Cate,n/a,Essie has dispatched,
+5/13/19,9:37 AM,Norlin,P,2666058,Sold out ,5/13/19,Cate,n/a,Michelle has dispatched,
+5/13/19,1:20 PM,RL-2,C,67281,"Product door stuck open, product can't fall",5/13/19,Cate,n/a,Mina has dispatched.,
+5/13/19,4:10 PM,UMC,P,11319620,Virtually empty!,5/13/19,Cate,n/a,Patty has dispatched,
+5/13/19,4:10 PM,UMC,P,10356368,No water,5/13/19,Cate,n/a,Patty has dispatched,
+5/14/19,1:59 PM,UMC,P,2580456,Not seated properly after moving: needs feet to be adjusted ASAP,5/14/19,Cate,118674473,Jonathan has dispatched,"eob 5/21/19, closed same day per Jaquassia on 5/21/19"
+5/16/19,1:39 AM,UMC,C,67285,"not getting product, correct change",5/16/19,Linda,n/a,Jeanne will submit issue,
+5/16/19,1:45 AM,UMC,P,2580456,"not getting product, correct change",5/16/19,Linda,118718437,WILL SUBMIT ISSUE,eob 5-17-19
+5/18/19,10:26 AM,Humanities,C,67165,Not responding when selection is made,5/20/19,Cate,n/a,Essie has dispatched,
+5/18/19,3:19 PM,Rec Center,,,"Several machines ""stopped working""",,n/a,n/a,waiting for customer reply,
+5/21/19,2:16 PM,Muenzinger,P,8051844,Dark except for card reader,5/21/19,Cate,118788194,Jaquassia has dispatched,eob 5/22/19
+5/21/19,2:38 PM,UMC,P,2580456,"Still wobbly, request stabilization again",5/21/19,Cate,118788287,Jaquassia has dispatched,"eob 5/28/2019, appears fixed by 2pm 5/22"
+5/22/19,3:50 PM,UMC,P,2580456,"Pepsi button yields Mtn Dew, low product",5/22/19,Cate,n/a,Michelle has dispatched,
+5/22/19,3:50 PM,UMC,C,67285,Mike & Ike package too small,5/22/19,Cate,n/a,Essie has made a note  :),
+5/22/19,3:50 PM,UMC,P,10356368,Slow dispensing; product gets left behind,5/22/19,Cate,118810893,Keenan has dispatched,eob 5/23
+5/23/19,3:18 PM,Muenzinger,P,8051844,"""Cash only"" message",5/23/19,Cate,118833784,Jonathan has dispatched,eob 5/24
+5/28/19,4:29 PM,Rec Center,All,All,Received Summer Camp Schedule,5/28/19,Cate,n/a,Forwarded to Pepsi & Canteen,
+5/29/19,8:20 AM,Norlin,P,2666058,Out of product,5/29/19,Linda,n/a,,within 48 hours
+5/29/19,1:40 PM,Muenzinger,P,8051844,"Sometimes ""cash only"" message, sometimes can't make a selection at all",5/29/19,Cate,118898482,"Noted this is a frequent issue, Jaquassia has dispatched",eob 5/30/19
+5/30/19,8:37 AM,Economics,C,66211,Low product,5/30/19,Cate,n/a,Nina has dispatched,
+5/30/19,7:47 AM,Clare Small,C,69800,Empty,5/30/19,Cate,n/a,Nina has dispatched,
+5/30/19,2:44 PM,Biotech,C,66422,Jackpotted $10 change in quarters,5/30/19,Cate,n/a,Essie has dispatched,$ is w/Angela Janaceck 5-3788
+5/30/19,3:44 PM,Rec Center,P,10735614,"Bottle stuck, preventing dispense",5/30/19,Cate,118921735,Camesia has dispatched,eob 5/31/19
+5/31/19,3:53 PM,Wardenburg,C,67105,Not crediting cash,5/31/19,Cate,n/a,Essie has dispatched,
+5/31/19,4:30 PM,ARC,C,66207,"Almost empty, not accepting quarters",5/31/19,Cate,n/a,emailed canteen,
+6/1/19,3:10 PM,Rec Center,P,10177395,not working,6/3/19,Cate,118961886,Kim has dispatched,eob 6/4/19
+6/1/19,3:12 PM,Rec Center,P,10735614,not working,6/3/19,Cate,118961927,Kim has dispatched,eob 6/4/19
+6/2/19,11:54 AM,Rec Center,P,10179649,"Failure to dispense first time, may have charged card",6/3/19,Cate,118961981,Kim has dispatched,eob 6/4/19
+6/4/19,1:53 PM,Rec Center,C,68682,"Reese's Outrageous dispensed 2, next coil empty before the rest",6/4/19,Cate,n/a,Jeanne has dispatched,
+6/4/19,4:53 PM,Kitt Central,C,66304,Cheetos stuck @ coil/ring,6/4/19,Cate,n/a,emailed canteen,Dispatched by Jeanne for 6/5/19 per email
+6/5/19,6:31 AM,Rec Center,P,10179649,"Vandalized, noticed 6/4 by Lloyd Martinez @ Pepsi, needs to be replaced.",6/5/19,email from Scott @ Pepsi,475289?,"Lloyd reported to Brian Fellman, reported to Scott P all @ Pepsi","I spoke w/Dave Schofield @ Rec Center, emailed him, Scott & Emil. Advised report to CU PD."
+6/5/19,9:14 AM,Chey-Arapaho,C,69934,"Failure to dispense on 6/3/19, multiple charges showing on card",6/5/19,Cate,n/a,Jeanne has dispatched,Forwarded customer reply email to Jeanne
+6/5/19,12:00 PM,UMC,P,11319620,"Arm is stuck, can't dispense",6/5/19,Emil,n/a,Brian,No service requested after all: Emil did some trouble-shooting per phone CSR.
+6/5/19,3:15 PM,Rec Center,C,68683,Advised Jeanne of Pepsi vandalism nearby,6/5/19,Cate,n/a,Jeanne has made note,
+6/7/19,8:29 AM,ARL/CASA,C,67807,Very low product,6/10/19,Cate,n/a,,
+6/7/19,12:30 PM,Andrews,P,8400764,Not working,n/a,n/a,n/a,"Kim V received call, could not get enough info","Cate called Andrews front desk 6/10, answerer said Pepsi machine is fixed"
+6/9/19,12:30 PM,Kittredge Central,P,10224792,Empty,6/10/19,Cate,n/a,Michelle has dispatched,"eob ""by the end of the week"""
+6/9/19,5:57 PM,Chey-Arapaho,C,69934,"""Enter code to re-home,"" ""Cards offline by vendor,"" not accepting cash",6/10/19,Cate,n/a,Mina has dispatched,ASAP
+6/9/19,6:38 PM,Chey-Arapaho,P,2202753,Not responding to cash or card swipes,6/10/19,Cate,119064279,Jesse has dispatched,eob 6/11/19 Also failed purchase 9:01p 6/9
+6/11/19,8:39 AM,Economics,C,66211,Needs to be filled,6/11/19,Cate,n/a,Jeanne has dispatched,
+6/11/19,8:39 AM,Economics,P,2565304,May need to be filled,6/11/19,Cate,n/a,Mary Lou has dispatched,
+6/11/19,1:15 PM,Rec Center,P,10177395,Arm getting stuck,6/11/19,Cate,119084541,Jesse has dispatched,eob 6/12/19
+6/7/19,1:00 PM,CUBS,P,11038360,Diet Pepsi coming out dirty & low volume; may be freezing,6/11/19,Cate,119104524,"Nyia w/""after hours"" said she dispatched, Jesse could not find call, dispatched new 6/12/19",Waiting for call back from Pepsi: Get a confirmation number from them. On 6/12 svc by 6/13 eob.
+6/10/19,9:45 PM,?,P,?,"Machine ate $4, wouldn't dispense Dr. P",,,,,Waiting for call back from customer re: location
+6/12/19,3:22 PM,UMC,P,2580456,GFI keeps tripping,6/12/19,Cate,119106166,Martha has dispatched,eob 6/13
+6/12/19,3:23 PM,UMC,P,10356368,"Card reader not working, machine says ""sold out""",6/12/19,Cate,119106179,Martha has dispatched,"eob 6/13 (I suspect this machine is running out of product too fast, requested increase via email to Scott)"
+6/13/19,1:20 PM,Norlin,P,2666058,Possibly completely empty,6/14/19,Cate,n/a,Maria has dispatched,"Pointed out that schedule should be constant, not reduced."
+6/14/19,1:29 PM,Math,C,67763,"No power, adjacent machines working fine",6/14/19,Cate,n/a,Jeanne has dispatched,
+6/14/19,2:50 PM,CUBS,P,11051329,May have failed to dispense for cc attempt,6/14/19,Cate,119143893,Crystal has dispatched,eob 6/17/19
+6/17/19,8:27 AM,Armory,P,11005822,"Very noisy, tech couldn't fix, apparently",6/17/19,Cate,119126252,Day has dispatched.,Tech is waiting on parts.
+6/17/19,1:15 PM,UMC,P,2580456,"GFCI had been tripped, verifying last service call",6/17/19,Cate,119164291,Day has dispatched.,eob 6/18/19
+6/17/19,1:25 PM,CUBS,P,10963775,"Not accepting bills, does accept coins",6/17/19,Cate,119164389,Day has dispatched.,eob 6/18/19
+6/17/19,2:53 PM,Chemistry,C,67349,Appears to be turned off,6/17/19,Cate,n/a,Jeanne has dispatched,
+6/17/19,3:00 PM,Atlas,C,66438,F4 Donuts not dispensing,6/17/19,Cate,n/a,Essie has dispatched,
+6/17/19,3:15 PM,Ketchum,C,67829,101 Beef jerky not dispensing,6/17/19,Cate,n/a,Essie has dispatched,
+6/17/19,3:30 PM,ENVD,C,69069,101 Beef jerky not dispensing,6/17/19,Cate,n/a,Jeanne has dispatched,
+6/18/19,11:00 AM,Leeds,C,67764,101 Beef jerky not dispensing,6/18/19,Cate,n/a,Jeanne has dispatched,
+6/18/19,11:00 AM,Leeds,P,8051835,Arm not moving for card  transactions,6/18/19,Cate,119181591,Travis has dispatched,eob 6/19/19
+6/18/19,3:45 PM,Police,both,n/a,Called dispatch 2-6666 to find contact person for refund bank.,6/18/19,Cate,n/a,Transferred to Russ Pasquale; left voicemail.,"Can't find that name in directory, maybe I heard it wrong. Found admin #: 2-8168"
+6/19/19,2:15 PM,UMC,P,2580456,"Not accepting bills, tried 3 different ones",6/19/19,Cate,119206317,Rosanne has dispatched. Called Andrew to add info.,eob 6/20/19
+6/19/19,2:30 PM,Chey-Arapaho,P,2202753,"Stole money, unknown issue; ""cash only"" message, but cash doesn't work, either.",6/19/19,Cate,119206333,Rosanne has dispatched. Called Andrew to add info.,"2nd customer emailed; called to get more details. Front desk agreed to put up ""out of order"" sign eob 6/20/19"
+6/21/19,9:39 AM,DLC,P,11142333,"Samsung Pay stuck authorizing 6/19, 2nd attempt worked, appears both charges went through.",6/21/19,Cate,119244200,Eddie has dispatched (from overflow call center: 12 minute call!),"Email received w/URL, waiting for Scott & Emil/Tristy to approve use of this account. Emails received include confirm #."
+6/21/19,1:20 PM,DLC,P,11142333,Diet Pepsi completely sold out,6/21/19,Cate,n/a,Maria has dispatched,
+6/26/19,1:17 PM,ARC,C ,66207,"Product not dropping, trapped",6/26/19,Linda,n/a,Jeanne has dispatched,
+6/24/19,5:52 PM,Chey-Arapaho,C,84069,Light on,6/26/19,Cate,n/a,Jeanne has dispatched,
+6/24/19,5:52 PM,Chey-Arapaho,P,2202753,Failing to dispense,6/26/19,Cate,119307928,Lincoln has dispatched,eob 6/27/19
+6/25/19,2:15 PM,UMC,C,67285,Not accepting coins,6/25/19,Jeanne,n/a,Jeanne @ Canteen updated us,after taking the call @ Canteen
+6/26/19,8:07 PM,Chey-Arapaho,P,2202753,Failing to dispense,6/27/19,Cate,119328815,Debora has followed up on previous call,"Previous call closed, opened new one, eob 6/28/19"
+6/27/19,2:05 PM,Leeds,C,67764,Not accepting cards,6/27/19,Cate,n/a,emailed canteen,Jeanne received 2:17p 6/27/19
+6/27/19,2:06 PM,Leeds,P,11139703,"Drink fell to bottom, can't dispense",6/27/19,Linda,(lost),"Linda called it in, it didn't get sav ed because we were both taking ",calls simutaneously.
+6/27/19,5:20 PM,Rec Center,C,68683,May be leaking,6/27/19,Cate,n/a,emailed canteen,
+6/27/19,5:20 PM,Rec Center,P,11569757,Probably leaking (new machine),6/27/19,Cate,119331301,Kyle has dispatched,
+6/28/19,1:15 AM,Rec Center,P,10177395,"""Y homing error"", cc reader not working, not taking cash",6/28/19,Linda,119347518,,eob 7/1/19
+6/28/19,9:43 AM,Armory,P,11005822,"Jackpotting, bottles leaking from top",6/28/19,Cate,119126252,"Submitted ticket online, reply took 40min.",Last call wasn't closed (this has same confirmation #); tech was waiting for parts. I suggested to Armory to post out of order sign.
+6/28/19,8:55 AM,Bear Creek B,C,84140,Out of order,6/28/19,Cate,n/a,Jeanne has dispatched,
+7/1/19,1:50 PM,Wardenburg,C,67015,"Not accepting coin, some stuck, won't give change",7/1/19,Cate,n/a,"Lena has info, will tell Jeanne",
+7/1/19,8:19 AM,Police,C,66980,Bill acceptor: constant clicking noise,7/1/19,Cate,n/a,Jeanne has dispatched,
+6/30/19,4:29 PM,Bear Creek B,C,84140,Not working,7/1/19,Cate,n/a,Jeanne has dispatched,"Tech did fill it on 6/29, new call put in."
+7/1/19,9:44 PM,Bear Creek A,P,2564599,Failure to dispense,7/2/19,Cate,119417284,Doreen replied to e-ticket,eob 7/3/19
+7/2/19,3:00 PM,CUBS,P,10963775,"Blk Cherry KS bowed up, maybe frozen",7/2/19,Cate,n/a,Maria has dispatched,"Called fill line, she'll submit it for repair"
+7/5/19,4:25 PM,CUBS,P,11051329,"Card reader appears to be off, not responding",7/5/19,Cate,119455764,PES ticket sent to wrong email.,eob 7/8/19
+7/8/19,9:30 AM,Willard,C,67657,"need refill, soccer camp",7/8/19,Linda,n/a,Will send someone,EOB Tuesday
+7/9/19,9:54 PM,Baker,C,67462,Not dispensing,7/9/19,Cate,n/a,Jeanne has dispatched,
+7/10/19,9:40 AM,Rec Center,P,11569757,"Muscle Milk ""warm"" front of machine did not feel warm to caller",7/10/19,Linda,119509330,,
+7/10/19,11:15 AM,LASP,C,67145/67088,Both Snack machines need to be filled,7/10/19,Kim,n/a,Essie has dispatched,
+7/10/19,2:24 PM,Kittredge Central,C,66304,Needs to be refilled,7/10/19,Cate,n/a,Mina has dispatched,Mike Cronstedt will return Mon 7/15! Yay!
+7/11/19,9:00 AM,Armory,P,11005822,Scheduled to be replaced 7/16/19,7/11/19,Sierra,n/a,Pepsi called to confirm this,Verified w/building proctor & Scott
+7/12/19,9:27 AM,LASP,C,67145,EMPTY,7/12/19,Linda,n/a,Essie will submit,
+7/15/19,8:55 AM,Kitt Central,C,84296,Change machine not giving money,7/15/19,Kim,n/a,Essie will submit,
+7/13/19,6:45 AM,Chey-Arapaho,P,2202753,"Failure to vend, gave cash change for card transaction",7/15/19,Cate,119577129,"e-ticket 179949, Fabrice confirmed over the phone","Emailed PES, noted this is 5th call since June 9. Call center says eob 7/16/19"
+7/15/19,6:53 AM,Chey-Arapaho,C,84069,Not giving change,7/15/19,Cate,n/a,Essie has dispatched,
+7/16/19,7:55 AM,Chey-Arapaho,P,2202753,$3.00 extra change will go to Wardenburg,7/16/19,Cate,n/a,Roger Henry @ Wardenburg,Will pick up & add to our bank ASAP.
+7/18/19,8:04 AM,Kitt Central,C,84296,Last call not closed out!,7/18/19,Cate,n/a,Jeanne has re-dispatched,
+7/18/19,8:29 AM,Libby,P,2665918,HOT product coming out! Syrup all over it,7/18/19,Cate,119640428,Melanie has dispatched,
+7/18/19,2:23 PM,Libby,C,66352,"Card reader down, Swedish Fish got stuck",7/18/19,Cate,n/a,Jeanne has dispatched,
+7/23/19,11:30 AM,LASP,P,8035818,Not taking Credit Cards,7/23/19,Cate,119704609,Andrea has dispatched,eob 7/24/19
+7/24/19,2:45 PM,CUBS,P,11038360,Failure to dispense,7/24/19,Cate,119728492,Camesia has dispatched,eob 7/24/19
+7/25/19,4:15 PM,Arnett,C,66253,Jerky stuck against glass above drop bin,7/25/19,Cate,n/a,Jeanne has dispatched,
+7/29/19,4:22 AM,ARC,P,7977557,CUPD discovered door open,7/29/19,Cate,119790657,"emailed Scott, spoke w/Andrew; we both issued a service call","7/30/2019; Scott emailed that machine is okay, no loss or damage"
+7/28/19,12:21 PM,Bear Creek B,C,84140,"Customer lost $, ""out of order"" now",7/29/19,Cate,n/a,Jeanne has dispatched,
+7/29/19,10:19 AM,ARC,P,7977557,"$3 lost, failed to dispense twice",7/29/19,Cate,119790657,"Already called in, info added",7/30/2019
+7/30/19,12:10 PM,ARL/CASA,C,67807,LOW IN PRODUCT,7/30/19,Linda,n/a,Essie will submit,
+7/30/19,11:34 AM,Humanities,P,11174350,Failure to dispense,7/30/19,Cate,119813823,sent ticket online,"eticket 188713, eob 7/31/19"
+7/30/19,11:37 PM,RL-2,C,67281,"Pringles stuck, bottom door jammed",7/30/19,Cate,n/a,Jeanne has dispatched,
+7/30/19,9:55 AM,Regent,P,10436458,"Failure to dispense, ""cash only"" appeared after attempt",7/31/19,Cate,119832050,Astra has dispatched,eob 8/1/19
+7/31/2019,6:50 PM,,,,,,,,,Waiting for customer to re-contact
+8/1/19,2:44 PM,Physics,P,2579752,Failure to dispense,8/1/19,Cate,119857503,Andrew has dispatched,eob 8/2/19
+8/1/19,4:25 PM,RL 1,P,10999410,B2 product dropped to bottom,8/1/19,Cate,119858423,Katherine has dispatched,eob 8/2/19
+8/7/19,10:40 AM,UMC,P,10356368,Failed to dispense,8/7/19,Cate,119939722,Jerry has dispatched,eob 8/7/19
+8/12/19,12:31 PM,Engineering,C,67286,Not accepting quarters,8/12/19,Cate,n/a,Jeanne has dispatched,
+8/13/19,4:15 PM,UMC,P,10963775,Stuck authorizing cc,8/13/19,Cate,120026876,Roseanne has dispatched,eob 8/14/19
+8/14/19,9:03 AM,Regent,C,67760,Credit card reader not functioning properly,8/14/19,Linda,n/a,Jeanne will dispatch,
+8/14/19,3:00 PM,Will Vill East,P,11369598,New assets still empty; need filled ASAP,8/14/19,Cate,n/a,Emailed Scott,Will know tomorrow 8/15/19
+8/14/19,2:22 PM,UMC,P,2580456,When will this be moved? (Jimmie),8/14/19,Cate,n/a,Emailed Scott,Will move 8/15/19
+8/14/19,2:22 PM,UMC,C,67285,When will this be moved? (Jimmie),8/14/19,Cate,n/a,Emailed Ronda & Jeanne,Will move Monday 8/19/19.
+8/16/19,12:00 PM,Wardenburg,C,67015,"1.50 for chips, got .50 back no chips",8/16/19,Linda,n/a,Essie will submit,
+8/15/19,10:01 AM,Athens North,P,5609887,Need to move ASAP for carpeting,8/15/19,Cate,n/a,Will be moved Monday 8/19,
+8/16/19,2:06 PM,Regent,P,10436458,Credit Cards timing out during authorization,8/16/19,Cate,120088257,LaShanda has dispatched,
+8/15/19,10:01 AM,Athens North,C,66370,Need to move ASAP for carpeting,8/16/19,Cate,n/a,Ronda offered Monday 8/19!,
+8/16/19,12:30 PM,Wardenburg,P,10772479,Not giving change or dispensing,8/16/19,Cate,120089405,Ticket submitted online,eob 8/19/19
+8/16/19,12:30 PM,Wardenburg,C,67015,Not giving change or dispensing,8/16/19,Cate,n/a,Jeanne has dispatched,
+8/19/19,2:30 PM,UMC,C,67285,Moved back to cubby by 128B,8/19/19,Cate,n/a,Bruce & Lloyd moved,
+8/19/19,2:55 PM,Athens North,C,66370,Moved to community room,8/19/19,Cate,n/a,Bruce & Lloyd moved,
+8/19/19,3:37 PM,UMC,P,10356368,Requested move to cubby 128B,8/19/19,Cate,n/a,"Emailed Scott, he confirmed",So Canteen can be safer from rocking.
+8/20/19,11:00 AM,Stadium,C,69916,"empty, jeanne got the call",8/20/19,Linda,n/a,Jeanne will send someone,
+8/20/19,11:05 AM,Leeds,P,2598156,"not lite up, not working",8/20/19,Linda,120129466,"Jose,. Eob 8/21/19",
+8/20/19,11:05 AM,Leeds,P,11139703,"product kept spinning, not dispensed",8/20/19,Linda,120129487,Jose has dispatched,Eob 8/21/19
+8/20/19,5:24 pp,UMC,P,11319620,"Low product, requested fill",8/20/19,Cate,n/a,Marina answered,
+8/21/19,12:59 PM,Baker,C ,67462,"buttons lite up, no response from machie",8/21/19,Linda,n/a,,Tech.will be up 8/22/19
+8/21/19,5:50 PM,Libby,P,2665918,Stole $3 cash,8/21/19,Cate,120159872,Katherine has dispatched,
+8/21/19,12:00 PM,CUBS,P,10963775,"Not dispensing for any pmt, no change out",8/22/19,Cate,120173054,Keenan has dispatched,
+8/22/19,3:37 PM,ARC,C,66207,Products keep getting stuck,8/22/19,Cate,n/a,Jeanne confirmed dispatch,Emailed Canteen after hours
+8/22/19,1:54 PM,Regent,P,10436458,CC reader still timing out,8/22/19,Cate,120181151,Submitted online ticket,eob 8/23/19
+8/23/19,5:30 PM,UMC,P,10356368,"Failure to dispense on CC, cash worked",8/23/19,Cate,120199649,Charles has dispatched,eob 8/26/19; Lloyd M called to state machine is empty to be moved. Scott confirmed move scheduled 8/27/19
+8/23/19,9:18 PM,Athens North,P,5609887,"Took 3 $1 coins, was sold out, didn't give back (machine is empty for future move)",8/24/19,Cate,120203307,Trisha has dispatched,eob 8/26/19
+8/25/19,12:15 PM,Andrews,P,8400764,2x cc used bottled water not dispensed,8/25/19,Linda,120205562,Anna will dispatch,
+8/26/19,11:12 AM,RL1,P,10999410,"Elevator upside-down, cc purchase",8/26/19,Linda,120215623,,eob 8/27/19
+8/26/19,12:12 PM,UMC,P,11319620,"Bottle stuck, preventing dispense",8/26/19,Cate,120217509,Juan has dispatched,eob 8/27/19
+8/26/19,9:46 AM,Wardenburg,P,10772479,"Move requested by Maria Wilson, need to look at space & take measurements.",8/26/19,Maria emailed us,n/a,Cate will go out & take measurements,New area may be rm. 143
+8/27/19,8:20 AM,Leeds,P,2598156,"Lights out, machine pulled out, plugged in.  Tried purchase and nothing",8/27/19,Kim,120232193,"Fabrice @ Pepsi 1-800, eob 8/27/19",Brenda (51665) called in and would like a CB for issue and resolution status update.
+8/28/19,12:13 PM,Chey-Arapaho,P,2202753,Failure to dispense blue gatorade,8/28/19,Cate,120266730,Jaquassia has dispatched,eob 8/29/19
+8/29/19,11:05 AM,Libby,C,66352,"key selections frozen 140 shows, won't accept pmt",8/29/19,Linda,n/a,Jeanne has dispatched,
+8/29/19,2:15 PM,Wardenburg,C,67015,Very low product,8/29/19,Cate,n/a,Essie has dispatched,
+8/29/19,3:05 PM,UMC,P,11319620,Needs fill desperately!,8/29/19,Cate,n/a,Erica has dispatched,"Due to weekend, may not get filled!"
+8/29/19,3:10 PM,UMC,P,10356368,Still empty after move!!,8/29/19,Cate,n/a,Erica has dispatched,"Due to weekend, may not get filled!"
+8/29/19,3:26 PM,Libby,C,84070,Not working,8/29/19,Cate,n/a,Jeanne has dispatched,
+8/29/19,3:26 PM,Willard,C,84099,Not working,8/29/19,Cate,n/a,Jeanne has dispatched,
+8/29/19,11:05 AM,Math,C,67763,"Put cash in, machine turned off",8/29/19,Cate,n/a,Steve has dispatched,Steve didn't seem to know the location.
+8/29/19,6:15 PM,Leeds,P,2598156,Cate called to check in on this 8/27 issue,8/12/19,Cate,120232193,Advised parts were ordered,for a replacement lock. Emailed Brenda
+8/29/19,11:12 PM,Bear Creek B,P,10685672,"$5 credit, wont accept any payment",8/30/19,Cate,120308825,Katherine has dispatched,eob 9/2/19
+8/30/19,11:34 AM,Education,C,67358,B1 required 2 pmts to dispence,8/30/19,Cate,n/a,Jeanne has dispatched,
+8/30/19,1:30 PM,Engineering,P,11571358,"Exact change only, cash only messages",8/30/19,Cate,120308870,Katherine has dispatched,eob 9/2/19
+8/30/19,11:34 AM,Leeds,P,2598156,"Still pulled out from wall, needs to be moved back to allow traffic to pass.",8/30/19,Cate,120309015,"Tracy has dispatched, will escalate",eob 9/6/19
+9/1/19,12:25 PM,Arnett Hall,C,66253,Snacks are stuck has the door wedged shut,9/1/19,Kim,n/a,Left Message; didn't get dispatched,"Cate called 9/4/19 to confirm dispatch, Jeanne dispatched 1:45 pm"
+9/3/19,1:05 PM,Engineering,P,2564607,"Customer put in $1, machine didn't acknowledge or give change back",9/4/19,Cate,120354386,Kimberly has dispatched,eob 9/5/19
+9/3/19,2:59 PM,Muenzinger,P,10966321,"Can swipe card, cannot make selection",9/4/19,Cate,120354430,Kimberly has dispatched,"2nd email same issue, diff customer 3:56p on 9/3, eob 9/5/19"
+9/4/19,6:00 PM,Kitt Central,P,10224792,Completely empty,9/5/19,Cate,n/a,emailed Scott,could not get through over the phone
+9/4/19,7:18 PM,Rec Center,P,10177395,Not accepting card swipes,9/5/19,Cate,120378734,Charles has dispatched,eob 9/6/19
+9/6/19,9:08 AM,Koebel,P,8051835,Need product refill,9/6/19,Linda,n/a,Marylou suppt ctr,eob Mon or Tue
+9/6/19,10:08 AM,Arnett hall,P,2565308,"PUSH KEY FOR DIET PERPSI, GET MTN DEW RED,REFILL",9/6/19,Linda,120392160,Tamara submitted,
+9/6/19,1:30 PM,Aerospace,C,69473,"Rice Krispies Treat stuck, prices not visible inside machine, put square items not in corners at bottom?",9/6/19,Cate,n/a,Essie has dispatched,
+9/9/19,12:45 PM,Libby,C,84070,"changer shows out of order, no ID # visable",9/9/19,Linda,n/a,Essie has dispatched,
+9/8/19,11:51 PM,Hallett,P,10686190,Card attempt: failure to dispense,9/9/19,Cate,120420513,Pam has dispatched,eob 9/10/19
+9/9/19,4:27 PM,Engineering,P,10735615,"Cash & card failed, lost money",9/9/19,Cate,120424165,Keenan has dispatched,eob 9/10/19
+9/10/19,9:30 AM,Rec Center,P,11569757,Didn't dispense Muscle Milk,9/10/19,Cate,120441700,Leah has dispatched,9/11/19
+9/10/19,12:33 PM,Aden,C,84213,Out of change,9/10/19,Cate,n/a,Jeanne has dispatched,
+9/11/19,3:14 PM,Kittredge Central,P,10224792,"""Payment approved: Vending"" no product",9/11/19,Cate,120467094,Roseanne has dispatched,9/12/19
+9/12/19,9:38 AM,Leeds,P,11139703,Needs to be moved closer to rest of them,9/12/19,Cate,n/a,Emailed Scott,Completed same day
+9/12/19,1:05 AM,Sewall,C,84203,Not working,9/12/19,Linda,n/a,Jeanne will submit issue,
+9/16/19,1:45 PM,Bear Creek A,P,2564599,"Failure to dispense 2x, 1 cancel w/ card",9/16/19,Cate,120531661,Julian has dispatched,eob 9/17/19
+9/16/19,2:13 PM,Armory,C,68891,"Popcorn stuck twice, card charged twice",9/16/19,Cate,n/a,Jeanne has dispatched,
+9/16/19,3:05 PM,CUBS,P,11038360,"Customer cancelled card trans, charged",9/16/19,Cate,n/a,Chelsea confirmed will vanish,
+9/17/19,10:18 AM,Chey-Arapaho,P,2202753,"used debit card, starbucks $3.00, no product given",9/17/19,Linda,120547436,Gunny will submit.,
+9/17/19,3:34 PM,Computer Center,C,68778,Expired products in the machine,9/17/19,Kim V/Cate,n/a,Reported directly to Cate while on Vending walk,Lori Flora from OIT 24691 called in to vending
+9/18/19,1:11 PM,Regent,P,8009991,Failed to dispense on cc first try,9/19/19,Cate,120599974,Amy 3rd party dispatched,Katrina confirmed # later
+9/18/19,2:45 PM,Bear Creek A,P,8398873,"Failed to dispense, possible stuck product",9/19/19,Cate,120600146,Amy 3rd party dispatched,Katrina confirmed # later
+9/19/19,3:45 PM,Muenzinger,P,10966321,"Ate $5, blue LED blank, no change",9/19/19,Cate,120601125,Katrina has dispatched,eob 9/20/19
+9/19/19,8:00 AM,Rec Center,P,10735614,Machine failure arm is stuck energy drink,9/20/19,Kim,120613938,Kendra has dispatched,eob 9/23/19
+9/20/19,11:05 AM,LASP,C,67145,Machine need refilled,9/20/19,Kim V.,n/a,Essie will dispatch Monday,eob 9/23/19
+9/20/19,12:00 PM,ENVD,Bank,n/a,Bank transferred from Emily L to Caitlyn S,9/20/19,n/a,n/a,Cate confirmed w/both,Emailed vending bank guidelines to ENVD
+9/20/19,2:10 PM,Sewall,C,84203,"Spitting bills back out, prob. Empty",9/20/19,Cate,n/a,Jeanne has dispatched,
+9/20/19,2:30 PM,Williams Vill. North,P,2564602,Not accepting credit cards,9/20/19,Cate,120621329,Reanna has dispatched,eob 9/23/19
+9/20/19,2:50 PM,Farrand,C,84035,Out of change,9/20/19,Cate,n/a,Essie has dispatched,
+9/20/19,3:13 PM,Williams Vill. North,P,2565296,Cc attempt; didn't dispense,9/20/19,Cate,120621646,Shayna has dispatched,eob 9/23/19
+9/21/19,5:45 PM,Engineering,P,10442672,"Double-shot Mocah dropped to bottom, didn't dispense, cust thinks charge stuck",9/23/19,Cate,120643307,Katrina has dispatched,eob 9/24/19
+9/23/19,11:53 AM,Bear Creek A,P,2564599,Multiple CC failures to dispense,9/23/19,Cate,120643400,Katrina has dispatched,eob 9/24/19
+9/24/19,10:31 AM,Wardenburg,P,10772479,"Move requested yesterday, will be on 9/30",9/24/19,Scott,n/a,Pepsi Scott emailed us back,request had 'rush' put on it.
+9/23/19,1:54 PM,Wardenburg,C,67015,Javier Portillo requested move before 10/8,9/23/19,Cate,n/a,Emailed Ronda,"Spoke w/Ronda 9/24, will do 9/27"
+9/24/19,5:00 PM,McKenna,C,66032,Reese's didn't fall after selection,9/25/19,Cate,n/a,Essie has dispatched,
+9/25/19,1:39 PM,Wardenburg,C,67015,"Quarters getting stuck, no change w/o purchase, stuck with $1.00 credit",9/25/19,Cate,n/a,Essie has dispatched,
+9/25/19,6:46 AM,Athens North,P,5609887,Will be moved back Mon 9/30,9/24/19,Scott,n/a,Scott emailed us,Per Brian Walton's request 9/18
+9/24/19,3:57 PM,Athens North,C,66370,Will be moved back Fri 9/27,9/24/19,Ronda,n/a,Ronda emailed us,Per Brian Walton's request 9/18
+9/26/19,5:27 PM,Norlin,C,67096,Not accepting cards for pmt,9/26/19,Cate,n/a,emailed canteen,Essie received & dispatched 9/27
+9/26/19,11:26 PM,Baker,C,67462,"Readout ""insufficient credit""",9/27/19,Cate,n/a,Essie has dispatched,
+10/1/19,10:00 AM,CUBS,P,11038360,"Not accepting bills, card cancelled due to coin return",10/2/19,Cate,120808330,Penny has dispatched,"Also work order in for move, no date, service 10/3/19"
+10/1/19,8:00 AM,CUBS,P,11051329,"Circuit blown, please check for damage",10/2/19,Cate,120808374,Penny has dispatched,"Oct. 9 deadline due to lack of urgency, tech for other machine will probably look at it when they come today or tomorrow."
+10/2/19,3:40 PM,Education,C,67358,"Entire bottom row ""not available""",10/2/19,Cate,n/a,Jeanne has dispatched,
+10/2/19,8:26 PM,Bear Creek B,C,84140,Canteen having trouble getting in room 2176 to fill bill changer,10/3/19,Cate,n/a,Called Wendy @ Bear Creek,"Per Wendy, any access into bldg should allow access to that room"
+10/3/19,2:35 PM,LASP,C,67088,"Not dispensing for cash pmt, no change back",10/3/19,Cate,n/a,Essie has dispatched,
+10/3/19,6:02 PM,Engineering,C,67352,"CC ""insufficient funds"" on several occasions, may be an int'l card?",10/3/19,Cate,n/a,Emailed Canteen; dispatched 8:27a 10/4/19,
+10/4/19,3:05 PM,Engineering,P,10442672,"Mt dew not dispensed, used CC",10/4/19,Linda,120888911,Diane will submit,
+10/5/19,1:00 PM,Engineering,P,2564607,Customer paid with CC but product did not dispense.  Gave cust. Vending refund website information.,10/5/19,Kim V.,120894480,Kim has dispatched,EOB 10/7/19
+10/7/19,8:18 AM,Baker,C,67462,"cc reader ""freaking Out""",10/7/19,Linda,,Jeanne will submit issue,
+10/7/19,10:26 AM,Williams Vill. North,P,2564602,Not accepting credit cards,10/7/19,Linda,120904859,Jerry will dispatch,
+10/5/19,4:54 PM,ENVD,C,69069,"Pringles stuck, bottom door jammed",10/7/19,Cate,n/a,Jeanne has dispatched,
+10/7/19,11:29 AM,Engineering,P,10442672,"Failed to dispense, moved very slow & to wrong selection, no drink fell, arm continued to port & port didn't open",10/7/19,Cate,120888911,Cortina confirmed dispatch,eob 10/7! (had already been called in)
+10/7/19,2:15 PM,Rec Center,C,68683,"""out of order"" sign",10/7/19,Jeanne,n/a,"Mike C told Jeanne, who told Cate when she called re: 69069",
+10/8/19,2:56 PM,Engineering,P,10442672,Failed to dispense from C5,10/8/19,Cate,120888911,Andrea escalated the call,Also escalated 120894480 for 2564607
+10/9/19,10:38 AM,Engineering,P,10442672,Failed to dispense product numerous tries,10/9/19,Linda,120949833,let them know of numerous claims,submit note about possible replace equipment
+10/9/19,11:08 AM,Physics,P,2579752,"not dispensing product, takes cash",10/9/19,Linda,120950648,Roy has dispatched,Repaired evening of 10/10/19
+10/9/19,12:09 PM,Muenzinger,P,8051844,"Card swipe won't allow selection, top LED goes blank.",10/9/19,Cate,120955631,Submitted request online in order to include email info,Also emailed Scott; eob 10/10/19
+10/11/19,8:46 AM,Williams Vill. East,P,11369598,Aquafina not dispensing properly,10/11/19,Linda,120988859,Travis has dispatched,eob today
+10/11/19,9:16 PM,Chey-Arapaho,P,2202753,"CC once, ""try diff. card,"" did, sees 2 charges",10/14/19,Cate,121019874,Drew has dispatched,"another call 10/13 Sun 7:58 pm, eob 10/15"
+10/16/19,1:46 PM,Aerospace,C,69473,Not registering credit cards,10/16/19,Cate,n/a,Jeanne has dispatched,
+10/16/19,2:25 PM,Bear Creek B,C,84140,Light blinking; out of change,10/16/19,Cate,n/a,Steve has dispatched,"Saw this on vending walk; access issue hopefully resolved per Sarah Bradley's email (Mike should have been close, if not finished with his route)"
+10/16/19,2:50 PM,Libby,C,84070,Short-changed 50 cents for $1,10/16/19,Cate,n/a,Steve has dispatched,
+10/16/19,3:54 PM,Chey-Arapaho,C,69934,Failed to dispense,10/16/19,Cate,n/a,Jeanne has dispatched,
+10/17/19,11:55 AM,ARC,P,2563398,"CC looks tampered, jammed coin slot",10/17/19,Cate,121084462,Carolyn has dispatched,eob 10/18/19 Brittany added info re: jammed coins
+10/17/19,2:56 PM,LASP,C,67145,What is fill schedule?,10/17/19,Cate,n/a,Message left by Steve for Jeanne,Ops Mgr unhappy w/2 empty columns
+10/17/19,3:47 PM,Will Vill East,C,68408,Jerky from 103 stuck in coil,10/17/19,Cate,n/a,Steve has dispatched,
+10/17/19,6:28 PM,Rec Center,P,10735614,Failed to dispense sweet tea,10/18/19,Cate,121103886,Lynn has dispatched,eob 10/21/2019 (Monday)
+10/18/19,3:45 PM,Sewall,C,84203,Changer light is on,10/18/19,Cate,n/a,Jeanne has dispatched,eob Monday; asked caller to put up sign
+10/21/19,3:18 PM,LASP,P,2565314,CC reader not working,10/21/19,Cate,121126150,Alexis has dispatched,eob 10/22/19
+10/22/19,10:30 AM,Chey-Arapaho,P,2202753,USED CC NOT DISPENSE COFFEE,10/22/19,Linda,121139159,,eob 101/23/19
+10/23/19,9:40 AM,McKenna,C,66032,"Stuck ""vending please wait""",10/22/19,Cate,n/a,Steve has dispatched,
+10/23/19,2:55 PM,Wardenburg,P,10772479,"""Sold out,"" card reader blank, noisy",10/23/19,Cate,121171592,Carolyn has dispatched,eob 10/24/19
+10/23/19,4:37 PM,ARC,C,66207,2 popcorn stuck at bottom of machine,10/23/19,Cate,n/a,,emailed Canteen
+10/23/19,4:43 PM,Clare Small,C,69800,Elevator down for 2 weeks,10/23/19,Ronda,n/a,Ronda sent email to us,"Emailed bldg proctor Brian Michieli; only down since Monday, fixed 10/24 (Thursday)"
+10/28/19,12:52 PM,Wardenburg,P,10772479,"Unknown, maybe power cord",10/28/19,Cate,121228479,Diana has dispatched,"Last call closed, opened new Emailed Scott @ Pepsi too"
+10/29/19,2:58 PM,Clare Small,P,2582246,"$2 put in, credit decreased to $0, failed to dispense, no change back",10/30/19,Cate,121252268,Rachel has dispatched,"Advised campus close, don't come until tomorrow 10/30. eob 10/30"
+10/30/19,10:40 AM,Chey-Arapaho,P,2202753,"CC, failed to dispense",10/30/19,Cate,121268614,Luis has dispatched,eob 10/31/19
+10/31/19,1:44 PM,Regent,P,10436458,Low & expired product,10/31/19,Cate,n/a,Jerry has dispatched,
+10/31/19,5:03 PM,Bear Creek B,C,84140,"Light ""still"" on",10/31/19,Cate,n/a,Emailed Canteen Repair,"CC'd Jeanne, who replied 11/1/19 7:40a & dispatched"
+11/1/19,2:53 PM,Education,C,67358,Card reader problem: card approved + ,11/1/19,Cate,n/a,Jeanne has dispatched,Need to update w/phrase if customer emails
+11/4/19,8:22 AM,Aerospace,C,69473,50% empty,11/4/19,Cate,n/a,Jeanne has dispatched,
+11/5/19,1:25 PM,UMC,P,10356368,"""Cash only"" message",11/5/19,Cate,121352479,Andrew has dispatched,"eob 11/6, probably this afternoon though"
+11/5/19,1:24 PM,UMC,C,67285,Stuck jerky @ coil,11/5/19,Cate,n/a,Jeanne has dispatched,
+11/5/19,12:12 PM,Aden,C,68454,"Stealing some coins, not accepting bills, will not vend. D4, B6 examples",11/6/19,Cate,n/a,"emailed canteen, Jeanne confirmed dispatch",
+11/6/19,10:49 AM,UMC,P,10963775,Sweet tea didn't dispense,11/6/19,Cate,121376416,Andrew has dispatched,
+11/6/19,1:30 PM,Education,C,67358,Bottom row not dispensing,11/7/19,Cate,n/a,Emailed Canteen,Jeanne dispatched 8:15 11/8
+11/7/19,5:00 PM,Atlas,C,66438,Rice Krispy Treat failed to dispense,11/7/19,Cate,n/a,Emailed Canteen,Jeanne dispatched 8:15 11/8
+11/7/19,5:55 PM,Engineering,P,10735615,"Arm only went halfway, couldn't reach drink",11/7/19,Cate,121399696,Katrina has dispatched,
+11/8/19,12:42 PM,Aerospace,C,69473,"""bad characters displeased on payment machine."" Machine not responding",11/8/19,Cate,n/a,Jeanne has dispatched,
+11/10/19,3:57 PM,Aden,C,84213,Light is on,11/11/19,Cate,n/a,Jeanne has dispatched,
+11/11/19,2:17 AM,Koebel/Leeds,P,11139703,ICE TEA stuck would not drop,11/11/19,Linda,121435266,Don will submit,
+11/11/19,3:07 PM,ARC,P,2563398,"Diet Pepsi button = Regular Pepsi, Different Diet Pepsi button = a click, no product",11/11/19,Cate,121435947,Anita has dispatched,
+11/12/19,8:31 AM,CUBS,All,4 units,Move requested after 11/19 to east wall,11/12/19,Cate,n/a,emailed pepsi & canteen,
+11/13/19,7:57 AM,Aerospace,C,69473,"Half empty, please fill",11/13/19,Cate,n/a,Steve has dispatched,
+11/13/19,9:44 AM,Biotech,C,,Needs to be filled,n/a,Cate,n/a,Maryellen confirmed snacks were filled after her first email,
+1/13/19,2:15 PM,Sewall,C,84203,"Not accepting bills, no lights",1/13/19,Cate,n/a,Jeanne has dispatched,
+11/13/19,4:37 PM,Chey-Arapaho,C,84069,Customer was shorted $1 in change,1/13/19,Cate,n/a,"Emailed canteen; dispatched 11/14/19, 11:06a","Waiting for customer reply to email; asset ID# provided 137093, not on our list"
+11/15/19,8:00 AM,Clare Small,P,2582246,takes money does not give product or refund money,11/15/19,Linda,121508578,Gavin send for someone today,
+11/17/19,3:56 PM,Rec Center,C,68683,"Not accepting any non-cash pmts ""could not authorize"" ApplePay",11/18/19,Cate,n/a,Steve has dispatched,
+11/17/19,9:52 AM,Chey-Arapaho,C,84069,"Only received 50 cents for $1 bill, then 1/18 5:45p, customer got $1.50 for $5 bill.",11/18/19,Cate,n/a,Steve will check on this to see whether it's been serviced.,Email Canteen re: not resolved 5:55p 11/18
+11/18/19,12:12 AM,Engineering,P,10735615,"Product fell to bottom, customer didn't receive it.",11/18/19,Cate,121542730,Michelle has dispatched,eob 11/19
+11/18/19,4:32 PM,Engineering,C,67766,Failed to dispense,11/18/19,Cate,n/a,emailed canteen,
+11/19/19,2:03 AM,LASP/LSTR,P,2565313,not dispensing product,11/19/19,Linda,121564455,Tracie will submit,
+11/19/19,1:57 PM,CUBS,C,67721,Failed to dispense jerky,11/19/19,Cate,n/a,Jeanne has dispatched,
+11/18/19,10:03 PM,Leeds,P,11139703,Failed to dispense from D3,11/19/19,Cate,121566691,Rachel has dispatched,eob 11/20
+11/20/19,1:44 PM,Engineering,P,10442672,"Didn't work last week 11/14, charge remains",11/20/19,Cate,121586717,Roy has dispatched,eob 11/21
+11/21/19,8:49 AM,Stadium,P,2565298,Card reader not working for past week,11/21/19,Cate,121605609,Tracy has dispatched,eob 11/22
+11/21/19,3:15 PM,LASP LSTR,P,2565313,Stealing money (failure to dispense),11/21/19,Cate,121607865,Anne has dispatched,eob 11/22
+11/21/19,3:15 PM,LASP LSTR,C,67088,"Failed to dispense, kept $5 bill long time",11/21/19,Cate,n/a,Jeanne has dispatched,
+11/22/19,1:11 PM,Duane Physics,P,2579752,"Didn't dispense Dr. Pepper, did dispense something else 2nd try",11/22/19,Cate,121625271,Jerry has dispatched,eob 11/25
+11/25/19,4:26 PM,Baker,P,10387967,Failed to dispense Mtn Dew Ice LemLim,11/26/19,Cate,121671061,Michelle has dispatched,depends on weather & campus conditions
+12/2/19,11:17 AM,Hallett,P,10686190,Failed to dispense Pepsi,12/2/19,Cate,121717852,Camesia has dispatched,eob 12/2
+12/3/19,9:56 AM,Regent,C,67760,"Put in $10, did not get product or change",12/3/19,Linda,n/a,Tonie will submit,
+12/3/19,11:05 AM,Muenzinger,P,8051844,"After card is swiped, won't vend, then times out = impossible to get product w/card",12/3/19,Cate,121738143,Astra has dispatched,Still a semi-frequent issue since April; customer likes Starbucks
+12/6/19,12:45 PM,UMC,P,11319620,"X Homing Failure & ""Cash Only"" message",12/6/19,Cate,121789441,Katherine has dispatched,eob 12/9/19
+12/6/19,12:45 PM,UMC,P,10356368,"Cards don't work, ""cash only"" message",12/6/19,Cate,121789544,Katherine has dispatched,eob 12/9/19
+12/6/19,9:40 AM,Kittredge West,P,10224820,Asset swap! Initiated by tech due to mechanical failure.,12/6/19,Pepsi,n/a,"Pepsi called us for directions, asked for ""Katie""","I had no info about this before today, emailed Scott & Alana, should be filled 12/9 or 12/10/19"
+12/7/19,2:41 PM,Bear Creek A,P,2564599,"Message ""cash only,"" not accepting cash",12/9/19,Cate,121812445,Tanya has dispatched,"Lloyd should be fixing cooling issue today for call put in yesterday, Tanya added notes re: message & cash issue."
+12/9/19,1:35 PM,CUBS,P,10963775,Incorrect pricing throughout,12/9/19,Cate,n/a,Emailed Alana Viera @ Pepsi,"She is covering Scott while on vacation, he replied 4-5 business days after product change, should be pre-set on new assets"
+12/10/19,1:45 PM,Humanities,C,67165,"Failed to dispense 3x, beef jerky, ""insufficient funds"" message",12/10/19,Cate,n/a,Jeanne has dispatched,"2nd complaint 3:09 pm, email detail to Jeanne for Gilbert"
+12/10/19,2:20 PM,SEEC,P,2492665,Dispensed EXPIRED Vanilla Frappucino,12/10/19,Cate,n/a,Patty has dispatched,EXP 9/16/2019
+12/10/19,3:09 PM,Humanities,C,67165,"Reese's chocolate didn't dispense, ""insufficient funds"" message for cc",12/10/19,Cate,n/a,n/a,"Same as above, emailed Jeanne to be sure detail is given to Gilbert."
+12/11/19,4:39 AM,Baker,P,10387967,"Will be swapped out due to mechanical failure (shorted harness, looks charred)",12/11/19,Scott,n/a,Scott @ Pepsi emailed us; Lloyd (tech) initiated swap,
+12/11/19,9:01 AM,Stadium,P,2565298,"Card reader still not working @ 1 month, card reader is blank, unresponsive",12/11/19,Cate,121857549,"Erin has dispatched, Aaron updated","Opened new call, eob 12/12/19"
+12/11/19,10:49 AM,Engineering,P,10442672,"Card transaction cancelled, never made selection, still looks like it was charged.",12/11/19,Cate,121857595,Erin has dispatched,eob 12/12/19
+12/11/19,2:20 PM,Rec Center,C,68683,No power; Pepsi removed adjacent this am,12/11/19,Cate,n/a,Jeanne has dispatched,"No power problems w/building, I can't get to plug or GFCI to reset."
+12/11/19,2:15 PM,Rec Center,C,68682,Pepsi removed; should move closer to wall,,Cate,,,
+12/11/19,4:45 PM,UMC,P,11319620,Didn't dispense for cc after selection made,12/11/19,Cate,121861569,Charles has dispatched,eob 12/12/19
+12/13/19,12:30 PM,Education,P,2565305,"error on credit card reader, unable to accept",12/13/19,Linda,121894605,Katrina has dispatched,eob 12/16
+12/13/19,12:35 PM,Education,C,67358,"error on credit card reader, unable to accept",12/13/19,Linda,n/a,Jeannie will submit,
+12/12/19,9:07 PM,Humanities,P,11174350,Failed to dispense Gatorade,12/13/19,Cate,121896164,Debora has dispatched,eob 12/16/19
+12/15/19,3:22 PM,Humanities,P,11174350,Failed to dispense Vanilla Starbucks,12/16/19,Cate,121896164,Lisa confirmed previous call was closed today @ 11:00am,Did not request service for this since it happened before last call was closed.
+12/15/19,4:00 PM,Rec Center,P,10177395,Failed to dispense water,12/16/19,Cate,121918903,Krista has dispatched,eob 12/12/19
+12/14/19,5:00 PM,Williams Village,??,??,"Customer left message w/""Williams Village""",,,,,"Waiting for customer to call/email reply to identify machine, issue & form of pmt"
+12/19/19,12:45 PM,UMC,P,2580456,"Unplugged! (no money, mostly empty)",12/19/19,Cate,121976422,Diana has dispatched,"eob 12/20/19, arrived at 1:45 p, machine had almost no money or product: slated for move?"
+12/19/19,12:45 PM,UMC,P,10356368,"RSSI = 0, ""cash only"" message",12/19/19,Cate,121976434,Diana has dispatched,eob 12/20/19; service ticket didn't go to tech; probably slated for pickup?
+12/19/19,11:00 AM,Bear Creek A,C,69837,Request for Chocolate Pop-tarts,12/19/19,Cate,n/a,emailed Canteen,They only carry Strawberry
+12/19/19,2:24 PM,Norlin,P,2666058,"It is ""completely unstocked""",12/19/19,Cate,n/a,Samatha has dispatched,"""next couple of business days"""
+12/29/19,7:49 PM,Engineering,C,67352,Flamin' Hot Cheetos 307 failed to dispense,12/30/19,Cate,n/a,Jeanne has dispatched,
